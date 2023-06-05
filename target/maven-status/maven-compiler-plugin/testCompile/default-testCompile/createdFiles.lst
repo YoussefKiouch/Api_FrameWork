@@ -1,0 +1,12 @@
+rest\Users\CRUDUser_Test.class
+Pojos\Posts.class
+utils\ConfigReader.class
+rest\Posts\Hooks.class
+rest\Posts\UserStepDefs.class
+rest\Users\CRUDUser_Test$2.class
+rest\Users\CRUDUser_Test$1.class
+utils\RestClientBDD.class
+rest\Users\BaseClass.class
+utils\RestClient.class
+rest\Posts\PostsStepDefs.class
+Pojos\User.class
